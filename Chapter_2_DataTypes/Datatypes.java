@@ -4,7 +4,7 @@ public class Datatypes {
     public static void main(String[] args) {
         int age = 51;
         double price = 99.99;
-        char grade = 'A';
+        char grade = 'B';
         boolean isJavaFun = false;
 
         System.out.println("Age: " + age);
