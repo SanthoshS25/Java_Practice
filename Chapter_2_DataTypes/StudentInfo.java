@@ -7,7 +7,9 @@ public class StudentInfo{
         double CGPA = 8.34;
         boolean isActive = true;
         char CityName = 'C';
+        // long phone = 9876543210L;
 
+        // System.out.println(phone);
         System.out.println(name);
         System.out.println(age);
         System.out.println(CGPA);
