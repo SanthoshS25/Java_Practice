@@ -21,14 +21,19 @@ public class Main {
 
 
         //Object Creation
-        Dog dog1 = new Dog("Labrador",2,"BigDog");
-        dog1.eat();
-        dog1.sleep();
-        dog1.bark();
-        dog1.makeSound();
-        Cat cat1 = new Cat("Street Cat", 1, "Normal");
-        cat1.eat();
-        cat1.sleep();
-        cat1.makeSound();
+        // Dog dog1 = new Dog("Labrador",2,"BigDog");
+        // dog1.eat();
+        // dog1.sleep();
+        // dog1.bark();
+        // dog1.makeSound();
+        // Cat cat1 = new Cat("Street Cat", 1, "Normal");
+        // cat1.eat();
+        // cat1.sleep();
+        // cat1.makeSound();
+
+        CreditCard u1 = new CreditCard("Ravi", 1000, "1234-5678-9874");
+        u1.processPayment(5000);
+        u1.printReceipt();
+        u1.logTransaction();
     }
 }
