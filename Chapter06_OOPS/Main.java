@@ -31,9 +31,16 @@ public class Main {
         // cat1.sleep();
         // cat1.makeSound();
 
-        CreditCard u1 = new CreditCard("Ravi", 1000, "1234-5678-9874");
-        u1.processPayment(5000);
-        u1.printReceipt();
-        u1.logTransaction();
+        // CreditCard u1 = new CreditCard("Ravi", 1000, "1234-5678-9874");
+        // u1.processPayment(5000);
+        // u1.printReceipt();
+        // u1.logTransaction();
+
+        Shape c1 = new Circle();
+        Shape r1 = new Rectangle();
+
+        if(c1 instanceof Circle) ((Circle) c1).drawCircle();
+        // if(r1 instanceof Rectangle) r1.drawRectangle();
+
     }
 }

@@ -1,3 +1,9 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        ".",
+        "Chapter_1",
+        "Chapter06_OOPS"
+    ],
+    "java.project.referencedLibraries": []
 }
