@@ -8,8 +8,8 @@ public class ThrowDemo {
     }
 
     public static void validateAge(int age) throws Exception{
-        if (age > 18){
-            throw new Exception("Welcome! You can vote.");
+        if (age >= 18){
+            System.out.println("Welcome! You can vote.");
         }
         else{
             throw new Exception("Not eligible to vote!");
