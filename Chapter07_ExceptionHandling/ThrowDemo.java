@@ -2,8 +2,8 @@ package Chapter07_ExceptionHandling;
 import java.util.Scanner;
 public class ThrowDemo {
     public static void main(String[] args) throws Exception {
-        Scanner s = new Scanner(System.in);
-        int age = s.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int age = sc.nextInt();
         validateAge(age);
     }
 
