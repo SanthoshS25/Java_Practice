@@ -1,4 +1,4 @@
-package Chapter06_OOPS;
+package src.Chapter06_OOPS;
 
 public class CreditCard implements Payable,Printable,Loggable {
     String userName;
