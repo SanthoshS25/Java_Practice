@@ -1,4 +1,4 @@
-package LeetCode_Problems;
+package src.LeetCode_Problems;
 
 public class MaximumSubarray {
     public static void main(String[] args) {

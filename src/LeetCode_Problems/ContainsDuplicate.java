@@ -1,4 +1,4 @@
-package LeetCode_Problems;
+package src.LeetCode_Problems;
 import java.util.Arrays;
 
 public class ContainsDuplicate {

@@ -1,4 +1,4 @@
-package LeetCode_Problems;
+package src.LeetCode_Problems;
 
 public class ValidPalindrome {
     public static boolean isPalindrome(String s) {

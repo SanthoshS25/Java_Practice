@@ -10,4 +10,9 @@ public class Arrays {
         System.out.println("The total of the Students: " + total);
         System.out.println("The average of the Students: " + total/students.length);
     }
+
+    public static void sort(int[] arr) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'sort'");
+    }
 }
