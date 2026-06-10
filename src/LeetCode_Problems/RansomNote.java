@@ -1,6 +1,7 @@
 package src.LeetCode_Problems;
 
 import java.util.HashMap;
+import java.util.HashSet;
 
 public class RansomNote {
     public static boolean canConstruct(String ransomNote, String magazine) {
