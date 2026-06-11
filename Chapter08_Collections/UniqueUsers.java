@@ -1,10 +1,8 @@
 package Chapter08_Collections;
-
 import java.util.HashSet;
 
 public class UniqueUsers {
     public static void main(String[] args) {
-        
         int arr[] = {101, 102, 103, 101, 104, 102, 105};
         HashSet <Integer> set = new HashSet<>();
         for (int element : arr) {
