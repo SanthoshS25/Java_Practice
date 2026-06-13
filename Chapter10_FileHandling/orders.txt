@@ -1,0 +1,3 @@
+Order1: Burger - Rs.100
+Order2: Pizza - Rs.200
+Order3: Dosa - Rs.50
